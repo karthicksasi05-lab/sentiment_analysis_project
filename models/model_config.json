@@ -1,0 +1,8 @@
+{
+  "vocab_size": 7500,
+  "embed_dim": 100,
+  "hidden_dim": 128,
+  "num_classes": 3,
+  "rnn_type": "lstm",
+  "max_len": 40
+}

@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+torch
+datasets
+streamlit
+plotly
+jupyter
+# Only needed if you want to use FinBERT in app.py / predict.py on your own computer
+# (the FinBERT training itself runs on Google Colab, which already has it):
+# transformers
